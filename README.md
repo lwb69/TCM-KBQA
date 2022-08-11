@@ -19,4 +19,4 @@ mention识别
 #### KG.py
 与知识库交互<br>
 <br>
-部分代码参考 [CCKS2019-CKBQA]([https://huggingface.co/hfl/rbt3](https://github.com/ThisIsSoMe/CCKS2019-CKBQA))
+部分代码参考 [CCKS2019-CKBQA](https://github.com/ThisIsSoMe/CCKS2019-CKBQA)
