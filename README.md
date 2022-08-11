@@ -16,3 +16,5 @@ mention识别
 实体链接
 #### path_extrator.py
 路径召回
+#### KG.py
+与知识库交互
