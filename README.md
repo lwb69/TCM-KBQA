@@ -7,3 +7,12 @@ python QA_system/ans_bot.py
 中医药知识库来自于互联网爬取和人工从中医药书籍中整理<br>
 问答系统中所用到的预训练语言模型为rbt3<br>
 [rbt3](https://huggingface.co/hfl/rbt3)
+### 项目主要文件
+#### ans_bot.py
+启动问答系统
+#### mention_extrator.py
+mention识别
+#### entitylink.py
+实体链接
+#### path_extrator.py
+路径召回
